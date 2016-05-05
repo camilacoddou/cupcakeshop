@@ -21,3 +21,20 @@ ul {
   font-size: 20px;
   line-height: 30px;
 }
+
+.important {
+  color: blue;
+}
+
+.flavors {
+  font-style: italic;
+}
+
+.cupcake {
+  font-weight: bold;
+  color: green;
+}
+
+body {
+  background-color: FFCC66;
+}
