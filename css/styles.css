@@ -46,7 +46,12 @@ body {
 }
 
 .sidebar {
-  width: 30%
-  float: left;
+  width: 50%;
   background-color: #E8AE0C;
+  float: right;
+}
+
+.column {
+  width: 300px;
+  float: left;
 }
