@@ -38,3 +38,15 @@ ul {
 body {
   background-color: FFCC66;
 }
+
+.center {
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+}
+
+.sidebar {
+  width: 30%
+  float: left;
+  background-color: #E8AE0C;
+}
